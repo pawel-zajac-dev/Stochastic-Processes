@@ -1,7 +1,6 @@
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243)
 ![Probability](https://img.shields.io/badge/Probability-Stochastic%20Processes-green)
-![Hidden Markov Models](https://img.shields.io/badge/HMM-Hidden%20Markov%20Models-orange)
 
 # Markov Models & Stochastic Processes
 
