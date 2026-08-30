@@ -52,6 +52,7 @@ The primary focus is understanding probabilistic sequence modelling, Markovian s
 - Sequence Classification
 - Language Modelling
 - Part-of-Speech Tagging
+- Scan TensorFlow
 
 ### Stochastic Processes
 
