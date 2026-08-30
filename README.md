@@ -39,12 +39,14 @@ The primary focus is understanding probabilistic sequence modelling, Markovian s
 ### Hidden Markov Models
 
 - Hidden Markov Models (HMMs)
+- Discrete & Continuous Observations
 - Forward Algorithm
 - Backward Algorithm
 - Forward-Backward Algorithm
 - Viterbi Algorithm
 - Baum-Welch Algorithm (Expectation-Maximization)
 - Parameter Estimation
+- Deep Learning & Gradient Descent Solutions
 - Scaling & Log-Space Computations
 - Sequence Decoding
 - Sequence Classification
